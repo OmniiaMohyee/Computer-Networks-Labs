@@ -120,7 +120,7 @@ def Forward(routing_table,ip_address):
 
 
 # DL=Routing_Table()
-DL={'192.168.0.0/24' : 'Serial 0','192.168.0.0/16': 'Serial 1', '170.200.30.192/26': 'Serial 2', '150.20.70.0/24': 'Default','d':"default"}
+DL={'192.168.0.0/24' : 'Serial 0','192.168.0.0/16': 'Serial 1', '170.200.30.192/26': 'Serial 2', '150.20.70.0/24': 'Default','d':'Default'}
 print(DL)
 
 
